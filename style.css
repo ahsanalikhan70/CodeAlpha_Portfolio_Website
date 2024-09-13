@@ -1204,7 +1204,7 @@ textarea {
 
   #hero {
     height: 90vh;
-    margin-top: 50px;
+    /* margin-top: 50px; */
     padding-top: 30px;
     display: flex;
     align-items: center;
